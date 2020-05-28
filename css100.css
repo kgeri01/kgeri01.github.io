@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-image: url("games-diablo-blizzard-entertainment.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#bg {
+	height: 100%;
+	background-color: rgb(128, 51, 0, 0.66);
+}
+
+#container {
+	height: 100%;
+	width: 60%;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	
+	background-color: rgb(128, 51, 0, 0.8);
+	
+	border-left-style: solid;
+	border-right-style: solid;
+}
